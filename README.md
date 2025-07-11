@@ -9,3 +9,6 @@ Python: For scripting and connecting Snowflake to Streamlit.
 
 ## Dataset
 The dataset simulates real insurance fraud records. Since real patient or customer data is sensitive, a synthetic dataset was generated using the faker library to maintain privacy while preserving the structure and logic of actual insurance records.
+
+# link: 
+https://saudinsurancefraud.streamlit.app/
